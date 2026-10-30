@@ -64,15 +64,15 @@ Endpoint:
 
 ### Halaman Utama
 
-![Halaman Utama](screenshots/home.png)
+![Halaman Utama](screenshot/home.png)
 
 ### Fitur Pencarian
 
-![Fitur Pencarian](screenshots/search.png)
+![Fitur Pencarian](screenshot/search.png)
 
 ### Halaman Detail Produk
 
-![Detail Produk](screenshots/detail.png)
+![Detail Produk](screenshot/detail.png)
 
 ## Video Demonstrasi
 
