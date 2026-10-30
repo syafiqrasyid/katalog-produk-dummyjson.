@@ -62,7 +62,17 @@ Endpoint:
 
 ## Screenshot Aplikasi
 
-Tambahkan screenshot halaman utama, hasil pencarian, dan halaman detail produk di bagian ini.
+### Halaman Utama
+
+![Halaman Utama](screenshots/home.png)
+
+### Fitur Pencarian
+
+![Fitur Pencarian](screenshots/search.png)
+
+### Halaman Detail Produk
+
+![Detail Produk](screenshots/detail.png)
 
 ## Video Demonstrasi
 
