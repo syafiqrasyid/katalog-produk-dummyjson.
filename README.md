@@ -76,7 +76,7 @@ Endpoint:
 
 ## Video Demonstrasi
 
-Link YouTube: **[Masukkan link video YouTube setelah video diunggah]**
+Link YouTube: **[https://youtu.be/YZ4mpQSbZYw?si=_F4SxoiEeY5IwA1J]**
 
 ## Repository
 
