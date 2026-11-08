@@ -96,13 +96,13 @@ npm install
 
 ### 4. Konfigurasi API
 
-Buka file `App.js`, kemudian sesuaikan alamat backend pada bagian:
+Buka file `App.js`, kemudian sesuaikan alamat backend:
 
 ```javascript
 const API_URL = "http://192.168.1.13:8085";
 ```
 
-Ganti alamat IP tersebut sesuai alamat IP laptop atau komputer yang menjalankan backend.
+Ganti alamat IP tersebut sesuai alamat IP komputer yang menjalankan backend.
 
 ### 5. Jalankan backend
 
@@ -122,27 +122,25 @@ Scan QR Code menggunakan aplikasi Expo Go pada HP Android.
 
 ## Screenshot Aplikasi
 
-### Halaman Utama
+### Tambah Produk
 
-![Halaman Utama](screenshot/TambahProduk.jpeg)
+![Tambah Produk](screenshot/TambahProduk.jpeg)
 
-### Fitur Pencarian
+### Update Produk
 
-![Fitur Pencarian](screenshot/UpdateProduk.jpeg)
+![Update Produk](screenshot/UpdateProduk.jpeg)
 
-### Halaman Detail Produk
+### Hapus Produk
 
-![Detail Produk](screenshot/HapusProduk.jpeg)
+![Hapus Produk](screenshot/HapusProduk.jpeg)
 
 ## Video Demonstrasi
 
-Link YouTube:
-
-https://youtu.be/YZ4mpQSbZYw?si=_F4SxoiEeY5IwA1J
+[Video Demonstrasi di YouTube](https://youtu.be/YZ4mpQSbZYw?si=_F4SxoiEeY5IwA1J)
 
 ## Repository
 
-https://github.com/syafiqrasyid/katalog-produk-dummyjson.
+[GitHub — Katalog Produk](https://github.com/syafiqrasyid/katalog-produk-dummyjson.)
 
 ## Pengembang
 
