@@ -124,15 +124,15 @@ Scan QR Code menggunakan aplikasi Expo Go pada HP Android.
 
 ### Halaman Utama
 
-![Halaman Utama](screenshot/home.png)
+![Halaman Utama](screenshot/TambahProduk.jpeg)
 
 ### Fitur Pencarian
 
-![Fitur Pencarian](screenshot/search.png)
+![Fitur Pencarian](screenshot/UpdateProduk.jpeg)
 
 ### Halaman Detail Produk
 
-![Detail Produk](screenshot/detail.png)
+![Detail Produk](screenshot/HapusProduk.jpeg)
 
 ## Video Demonstrasi
 
